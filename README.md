@@ -1,4 +1,4 @@
-# My 3rd React App - React & Material UI Project Using The PixaBay API
+# My 3rd React App - Pixabay Images Search
 
 > Based on React & Material UI Project Using The PixaBay API tutorial https://www.youtube.com/watch?v=dzOrUmK4Qyw&list=WL&index=279&t=0s
 
